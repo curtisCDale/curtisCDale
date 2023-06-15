@@ -15,13 +15,50 @@
 </ul>
 <br>
 <h2>👋 Socials </h2>
-<a href="https://www.linkedin.com/in/curtis-c-dale/"><img height="40px" src="images/linkedin.svg"></a>
-<a href="https://twitter.com/Curtiwurti"><img height="40px" src="images/icontwitter.png"></a>
-<a href="https://codepen.io/curtisDale"><img height="40px" src="images/iconcodepen.png"></a>
+<a href="https://www.linkedin.com/in/curtis-c-dale/">LinkedIn</a>
+<a href="https://twitter.com/Curtiwurti">Twitter</a>
+<a href="https://codepen.io/curtisDale">Codepen</a>
 <br>
 <br>
 <h2>🛠️ Tools, Frameworks, Languages, Skills</h2>
-<p>
+React
+Angular
+Flask
+Rails
+
+.Net
+NodeJs
+ExpressJs
+Django
+
+JSON
+MongoDB Atlas
+
+Selenium
+Beautiful Soup
+
+HTML5
+CSS
+SCSS/sass
+
+Javascript
+Typescript
+C#
+Python
+
+Material UI
+Bootstrap
+Ant UI
+
+Git
+Github
+Stack Overflow
+
+Visual Studio Code
+Unity
+
+
+<!-- <p>
   <img title="React" height="40" src="images/skillreact.png">
   <img title="Angular" height="40" src="images/skillangular.png">
   <img title="Flask" height="40" src="images/skillflask.png">
@@ -56,6 +93,6 @@
   <img title="Stack Overflow" height="40" src="images/stackoverflow.svg">
   <img title="VsCode" height="40" src="images/skillvscode.jpeg">
   <img title="Unity" height="40" src="images/skillunity.png">
-</p>
+</p> -->
 <br>
 
