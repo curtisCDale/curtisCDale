@@ -21,40 +21,40 @@
 <br>
 <br>
 <h2>🛠️ Tools, Frameworks, Languages, Skills</h2>
-React
-Angular
-Flask
+React, 
+Angular, 
+Flask, 
 Rails
 
-.Net
-NodeJs
-ExpressJs
+.Net, 
+NodeJs, 
+ExpressJs, 
 Django
 
-JSON
+JSON, 
 MongoDB Atlas
 
-Selenium
+Selenium, 
 Beautiful Soup
 
-HTML5
-CSS
+HTML5, 
+CSS, 
 SCSS/sass
 
-Javascript
-Typescript
-C#
+Javascript, 
+Typescript, 
+C#, 
 Python
 
-Material UI
-Bootstrap
+Material UI, 
+Bootstrap, 
 Ant UI
 
-Git
-Github
+Git, 
+Github, 
 Stack Overflow
 
-Visual Studio Code
+Visual Studio Code, 
 Unity
 
 
